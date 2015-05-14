@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.parse.starter.ResultActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/ra_menu_logout"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+        android:title="Logout"
+        />
+
+</menu>
+<!-- From: file:/Users/Andersson/Google%20Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/res/menu/menu_result.xml -->

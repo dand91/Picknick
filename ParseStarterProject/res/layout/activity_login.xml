@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:gravity="center_horizontal"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.parse.starter.LoginActivity"
+    android:weightSum="1"
+    android:background="@drawable/wood"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout android:id="@+id/create_layout" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:orientation="vertical"
+        android:weightSum="1"
+        android:background="@drawable/picknick_background"
+        android:layout_weight="0.78">
+
+            <AutoCompleteTextView android:id="@+id/la_email" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_email"
+                android:textColorHint="#110F10"
+                android:inputType="textEmailAddress" android:maxLines="1"
+                android:singleLine="true"
+                android:textColor="#ff000000"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="170dp"
+                />
+
+            <EditText android:id="@+id/la_password" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="password"
+                android:textColorHint="#110F10"
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeOptions="actionUnspecified" android:inputType="textPassword"
+                android:maxLines="1" android:singleLine="true"
+                android:textColor="#ff000000"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="20dp"
+                />
+
+            <TextView android:id="@+id/la_response" android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:inputType="text"
+                android:textColor="#ff000000"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="20dp"
+                />
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true">
+
+            <Button
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:text="login"
+                android:id="@+id/la_login_button"
+                android:layout_width="0.0dip"
+                android:background="#f1397b09"
+                android:textColor="#ffffffff"
+                android:textStyle="bold"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0" />
+
+            <Button
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:text="sign upp"
+                android:id="@+id/la_create_button"
+                android:layout_width="0.0dip"
+                android:background="#f1397b09"
+                android:textColor="#ffffffff"
+                android:textStyle="bold"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0" />
+
+        </LinearLayout>
+
+        </LinearLayout>
+</LinearLayout>
+
+
+

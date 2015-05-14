@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:gravity="center_horizontal"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.parse.starter.LoginActivity"
+    android:weightSum="1"
+    android:background="@drawable/wood"
+    android:orientation="vertical">
+
+    <LinearLayout android:id="@+id/create_layout" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:orientation="vertical"
+        android:weightSum="1"
+        android:background="@drawable/sign_up_background"
+        android:layout_weight="0.78">
+
+
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="name"
+            android:textColorHint="#110F10"
+            android:ems="10"
+            android:id="@+id/nua_name"
+            android:layout_marginTop="160dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textColor="#ff000000"/>
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:textColor="#ff000000"
+            android:hint="email"
+            android:textColorHint="#110F10"
+            android:id="@+id/nua_email"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:ems="10"
+            android:hint="phone"
+            android:textColorHint="#110F10"
+            android:textColor="#ff000000"
+            android:id="@+id/nua_phone"
+            android:layout_gravity="left|top"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:textColor="#ff000000"
+            android:hint="password"
+            android:textColorHint="#110F10"
+            android:id="@+id/nua_password"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+
+        <Button android:id="@+id/nua_button_signup" style="?android:textAppearanceSmall"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="sign upp"
+        android:textStyle="bold"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+            android:layout_marginTop="30dp"
+            android:background="#f1397b09"
+        android:textColor="#ffffffff"
+        android:clickable="true"
+        android:enabled="true"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+
+</LinearLayout>
+
+<!-- From: file:/Users/Andersson/Google%20Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/res/layout/activity_new_user.xml -->

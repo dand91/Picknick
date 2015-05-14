@@ -1,0 +1,104 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:gravity="center_horizontal"
+    android:orientation="vertical" android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.parse.starter.NewGroupMemberActivity"
+    android:weightSum="1"
+    android:id="@+id/new_group_member_layout"
+    android:background="@drawable/background_group"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sga_display"
+            android:layout_gravity="center"
+            android:text="Search"
+            android:textSize="35dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:fontFamily="Helvetica"
+            android:textColor="#ffffffff"
+            android:singleLine="false" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:id="@+id/ngma_text"
+        android:editable="true"
+        android:inputType="textEmailAddress"
+        android:hint=" search user"
+        android:textColorHint="#110F10"
+        android:background="#ffffffff"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:textColorLink="#ff000000"
+        android:textColor="#ff000000" />
+
+        <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:textSize="21dp"
+        android:id="@+id/ngma_response"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+            android:textColorLink="#ff000000" />
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true">
+
+            <Button
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:text="add"
+                android:id="@+id/ngma_button_add"
+                android:layout_width="0.0dip"
+                android:background="#c1397b09"
+                android:textColor="#ffffffff"
+                android:textStyle="bold"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0" />
+
+            <Button
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:text="done"
+                android:id="@+id/ngma_button_done"
+                android:layout_width="0.0dip"
+                android:background="#c1397b09"
+                android:textColor="#ffffffff"
+                android:textStyle="bold"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0" />
+
+        </LinearLayout>
+
+        <ListView
+        android:layout_marginTop="70dp"
+        android:layout_width="match_parent"
+        android:layout_height="199dp"
+        android:id="@+id/ngma_list"
+            android:layout_weight="0.32" />
+    </LinearLayout>
+</LinearLayout>

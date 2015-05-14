@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-92dcb9a49177a9d43557b987e5d7f332f7511b9e.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-010c28c18c48339970dc76965e634bb10a4fac8d.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-1d1da8290ff79858901b28f92e7703834c5d3762.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-c751423d7ad8a042f550c4d1da6297e44e471f12.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-a52e6b3a8dc21f1211c99179547b116a8f719b8d.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-1d1da8290ff79858901b28f92e7703834c5d3762.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-94cf2400b5de06841fc54b86a96719fec6ba53f6.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-3f3306374755813a4ed451f7268c044d2daeed50.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-27ad5cb929cc0c37c9dd6ef97ecb6ab1d58bcd0e.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-862862f9cd1551e29b6d6efe843256b878e361a0.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-c20ea74ee9307c77ce95b5fe332b357ae1849c03.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-ab01090a44ae21b8a9f86c82dce27c994fa74e32.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-3f3306374755813a4ed451f7268c044d2daeed50.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-17ed78bb60a88e5aba7ac8873a288ebd8de961a9.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-b3c634c9fe29037b503078cd3f914b5b58920825.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-6012cd1a6b3c17f6c8d2bb24cf62b48735bdb871.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-92dcb9a49177a9d43557b987e5d7f332f7511b9e.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-f2368df423fff52aabdf01caee7db1c58e66d510.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-010c28c18c48339970dc76965e634bb10a4fac8d.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/libs/ParseCrashReporting-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2bfbcce5ae61bdd10676df8e89710693c1256024">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.1-f520c1ce3250b1b407133d44cda11711813eb271.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-a2b21ebfb448ec267fbd16fb77de6f2e4ff8e161.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-b3c634c9fe29037b503078cd3f914b5b58920825.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-6012cd1a6b3c17f6c8d2bb24cf62b48735bdb871.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-410ae85caac087d71ca8037ab199bc28cde3edac.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-ff7b64f0a0ad57a4fbf90b03475d26cf4e31de78.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.9.1-b3bcedbf546201d6a0f27b171e4f92a1a2b6ccee.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-c20ea74ee9307c77ce95b5fe332b357ae1849c03.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-676b331394099bf193bc3f1f44ce90f91779315c.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-f2368df423fff52aabdf01caee7db1c58e66d510.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-c697140d9cc9f69f6d3395fd21280066e559aeac.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-b38e3510c4f02d37dfa3c419ce79007115712781.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-f1d11cb010185f5808a4b0c72afed6fb9d2350cc.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-a2b21ebfb448ec267fbd16fb77de6f2e4ff8e161.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-ff7b64f0a0ad57a4fbf90b03475d26cf4e31de78.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-b38e3510c4f02d37dfa3c419ce79007115712781.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.9.1-b3bcedbf546201d6a0f27b171e4f92a1a2b6ccee.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-261d99ab3bfe885d7b4ef52159f056a4308685b6.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-82e3b5cdd9dc0f78cf2ec4636fb35a08c21d8242.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-a52e6b3a8dc21f1211c99179547b116a8f719b8d.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-f1d11cb010185f5808a4b0c72afed6fb9d2350cc.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-261d99ab3bfe885d7b4ef52159f056a4308685b6.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-17ed78bb60a88e5aba7ac8873a288ebd8de961a9.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-c751423d7ad8a042f550c4d1da6297e44e471f12.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-82e3b5cdd9dc0f78cf2ec4636fb35a08c21d8242.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/libs/ParseCrashReporting-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2bfbcce5ae61bdd10676df8e89710693c1256024">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.1-f520c1ce3250b1b407133d44cda11711813eb271.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-862862f9cd1551e29b6d6efe843256b878e361a0.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-27ad5cb929cc0c37c9dd6ef97ecb6ab1d58bcd0e.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-94cf2400b5de06841fc54b86a96719fec6ba53f6.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-410ae85caac087d71ca8037ab199bc28cde3edac.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-ab01090a44ae21b8a9f86c82dce27c994fa74e32.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-676b331394099bf193bc3f1f44ce90f91779315c.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-c697140d9cc9f69f6d3395fd21280066e559aeac.jar" />
+    </item>
+
+</items>
