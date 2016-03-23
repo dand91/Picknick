@@ -233,18 +233,18 @@
         <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-a2b21ebfb448ec267fbd16fb77de6f2e4ff8e161.jar" />
     </item>
     <item
-        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
-        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-ff7b64f0a0ad57a4fbf90b03475d26cf4e31de78.jar" />
-    </item>
-    <item
         jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
         <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-b38e3510c4f02d37dfa3c419ce79007115712781.jar" />
+    </item>
+    <item
+        jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-ff7b64f0a0ad57a4fbf90b03475d26cf4e31de78.jar" />
     </item>
     <item
         jar="/Users/Andersson/Google Drive/Andriod_saved_files/Parse-Starter-Project-1.9.1/ParseStarterProject/libs/Parse-1.9.1.jar"

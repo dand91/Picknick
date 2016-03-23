@@ -8,9 +8,14 @@
     tools:context="com.parse.starter.LoginActivity"
     android:weightSum="1"
     android:background="@drawable/wood"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:id="@+id/">
 
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView">
 
     <LinearLayout android:id="@+id/create_layout" android:layout_width="match_parent"
         android:layout_height="wrap_content" android:orientation="vertical"
@@ -87,8 +92,8 @@
                 android:layout_weight="1.0" />
 
         </LinearLayout>
-
-        </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
 </LinearLayout>
 
 

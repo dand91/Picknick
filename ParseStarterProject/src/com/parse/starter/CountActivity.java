@@ -31,6 +31,7 @@ public class CountActivity extends Activity {
 
     double totalAmount = 0.0;
     long tol = (long)0.001;
+
     SortedList<CountEntry> userList;
 
     String mEmail;
@@ -50,7 +51,6 @@ public class CountActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_count);
-
 
        mAmountView = (EditText) findViewById(R.id.ca_response1);
        mResponseView = (EditText) findViewById(R.id.ca_response2);
