@@ -154,7 +154,7 @@ public class CountActivity extends Activity {
             @Override
             public void onClick(View view) {
 
-                   add();
+                   addButton();
 
             }
 
@@ -205,7 +205,7 @@ public class CountActivity extends Activity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void add(){
+    public void addButton(){
 
         //Update amount, not sending to database.
         Log.d("ca_add", "button add");
@@ -377,10 +377,7 @@ public class CountActivity extends Activity {
     private SortedList<CountEntry> fillEntryList() {
 
        //Fills list with users who are in the selected group.
-
         userList = new SortedList<CountEntry>();
-
-
         ParseQuery<ParseObject> query = ParseQuery.getQuery("GroupUsers");
         query.whereEqualTo("groupName", mGroup);
 
@@ -497,6 +494,7 @@ public class CountActivity extends Activity {
         ParseCloud.callFunctionInBackground("sendMail", params, new FunctionCallback<Object>() {
             @Override
             public void done(Object response, ParseException exc) {
+
                 Log.e("cloud code example" , "response: " + response);
             }
         });
